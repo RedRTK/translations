@@ -1,0 +1,27 @@
+{
+    "meta": { "code": "en", "name": "English", "version": 1 },
+
+    "// ==================== DINERO Y MAS ====================": "",
+    "Dinero y más": "Money & More",
+    "Varios": "Misc",
+    "Negocios": "Businesses",
+    "Editor de Nivel": "Level Editor",
+    "Esperando conexion a GTA Online...": "Waiting for GTA Online connection...",
+    "Ingresa a una Sesion Online": "Join an Online Session",
+    "Tu Nivel Actual: %s": "Your Current Level: %s",
+    "Tu RP Actual: %s": "Your Current RP: %s",
+    "Tu Global RP: %s": "Your Global RP: %s",
+    "Cargando...": "Loading...",
+    "Puedes escribir el nivel que desees. Se aplicara exactamente ese nivel.\nNiveles recomendados por dia: 100": "You can type any level you want. That exact level will be applied.\nRecommended levels per day: 100",
+    "Nivel Deseado": "Desired Level",
+    "RP Necesaria: %s": "Required RP: %s",
+    "Aplicar Nivel": "Apply Level",
+    "Nivel Rapido:": "Quick Level:",
+    "Nivel {}": "Level {}",
+    "Suma niveles a tu Nivel Actual.\nNiveles recomendados por dia: 100": "Adds levels to your current level.\nRecommended levels per day: 100",
+    "Sincronizar RP Global": "Sync Global RP",
+    "Si notas que no ganas RP pulsa «Sincronizar RP Global» para arreglarlo.": "If you are not gaining RP, press \"Sync Global RP\" to fix it.",
+    "RP y Global RP ajustados a {}.": "RP and Global RP set to {}.",
+    "Cambiando de sesion para aplicar los cambios...": "Switching sessions to apply the changes...",
+    "No se pudo leer el RP actual.": "Could not read the current RP."
+}
