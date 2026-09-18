@@ -1,5 +1,5 @@
 {
-    "meta": { "code": "en", "name": "English", "version": 6 },
+    "meta": { "code": "en", "name": "English", "version": 7 },
 
     "// ==================================================================s": "",
 
@@ -31,6 +31,10 @@
     "Nueva actualizacion disponible: v": "New update available: v",
     "Revisa la categoria \"Importante\" para descargarla.": "Check the \"Important\" category to download it.",
     "Verificando actualizaciones...": "Checking for updates...",
+    "Cambiar tecla##menuitogglekey": "Change Hotkey",
+    "Cancelar##cancelmenutogglekey": "Cancel",
+    "Presiona la tecla deseada... (ESC cancela)": "Press the key you want to use... (ESC to cancel)",
+    "Tecla del menu:": "Menu hotkeys:",
 
     "// ====================Importante ====================": "",
     "Importante": "Important",
