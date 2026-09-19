@@ -299,5 +299,12 @@
     "Modern (Vertical)": "Moderno (Vertical)",
     "Modern (Modular)": "Moderno (Modular)",
     "UI Style": "Estilo de interfaz",
-    "Choose the UI style": "Elige el estilo de la interfaz"
+    "Choose the UI style": "Elige el estilo de la interfaz",
+    "Syncing...": "Sincronizando...",
+	"Syncing languages...": "Sincronizando idiomas...",
+	"Updating {}...": "Actualizando {}...",
+	"{} updated, {} up-to-date": "Actualizados: {}, al día: {}",
+	"All languages up-to-date": "Todos los idiomas están al día",
+	"Invalid index.json": "index.json inválido",
+	"No connection to GitHub": "Sin conexión",
 }
