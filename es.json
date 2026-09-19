@@ -2,7 +2,6 @@
     "meta": { "code": "es", "name": "Español", "version": 4 },
 
     "// ==================== SELF ====================": "",
-    "// === Categoria principal (Self.cpp) ===": "",
     "Self": "Jugador",
 
     "// === GlobalsGroup ===": "",
