@@ -1,5 +1,5 @@
 {
-    "meta": { "code": "en", "name": "English", "version": 7 },
+    "meta": { "code": "en", "name": "English", "version": 8 },
 
     "// ==================================================================s": "",
 
@@ -69,6 +69,7 @@
     "Formatos soportados: Cherax, Stand y YimMenu Legacy (.json / .txt)": "Supported formats: Cherax, Stand and YimMenu Legacy (.json / .txt)",
 
     "// ==================== Vehiculos Saved====================": "",
+    "Formatos soportados: Cherax y Stand (.json / .txt)": "Supported formats: Cherax and Stand (.json / .txt)",
     "Previsualización ##SavedVehicles": "Preview ##SavedVehicles",
     "Previsualiza los vehículos antes de spawnearlos.": "Previews vehicles before spawning them.",
     "Autocompletar nombre":"Populate Name",
