@@ -1,5 +1,5 @@
 {
-    "meta": { "code": "es", "name": "Español", "version": 5 },
+    "meta": { "code": "es", "name": "Español", "version": 6 },
 
     "// ==================== SELF ====================": "",
     "Self": "Jugador",
@@ -291,8 +291,10 @@
     "Instantly passes Pacific Standard Job": "Completa Pacific Standard al instante",
 
 	"// ==================== KORTZ CENTER HEIST ====================": "",
-
-	"// === General Purchases (compras) ===": "",
+	"Vehicles": "Vehículos",
+	"Equipment": "Equipamiento",
+	"Intel": "Información",
+	
 	"Guard Routes": "Rutas de Guardias",
 	"Guard routes purchased": "Rutas de guardias compradas",
 	"Glass Cutter": "Cortador de Vidrio",
@@ -306,7 +308,7 @@
 	"Scope out Kortz Center": "Reconoce el Kortz Center",
 	"Alpha Mail Disguise": "Disfraz de Alpha Mail",
 	"Alpha mail disguise": "Disfraz de Alpha Mail",
-	"Hazmat Suit": "Traje de Protección",
+	"Hazmat Suit": "Traje Hazmat",
 	"Staff Key Card": "Tarjeta de Acceso del Personal",
 	"Tactical Equipment": "Equipo Táctico",
 	"Hacking Device": "Dispositivo de Hackeo",
