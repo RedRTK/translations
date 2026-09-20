@@ -361,5 +361,7 @@
 	"{} updated, {} up-to-date": "Actualizados: {}, al día: {}",
 	"All languages up-to-date": "Todos los idiomas están al día",
 	"Invalid index.json": "index.json inválido",
-	"No connection": "Sin conexión"
+	"No connection": "Sin conexión",
+	"Hold the button with the command name and enter a keystroke to change its hotkey": "Mantén pulsado el botón con el nombre del comando y pulsa una tecla para cambiar su atajo",
+	"If a command has an existing hotkey, clicking the button will remove it": "Si un comando ya tiene un atajo asignado, pulsar el botón lo eliminará"
 }
