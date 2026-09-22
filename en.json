@@ -270,7 +270,7 @@
     "Desbloquea los precios especiales de los faros de colores en Los Santos Tuners": "Unlocks the special prices for colored headlights in Los Santos Tuners",
     "Desbloquear Premio de LSCM": "Unlock LSCM Prize Ride",
     "Desbloquea el vehículo de las carreras semanales de LSCM": "Unlocks the LSCM weekly race vehicle",
-    "// (LSCM Reputacion Maxima esta en #if 0: no se traduce.)": "",
+    "//LSCM": "",
     "Ropa de Navidad": "Christmas Clothing",
     "Activa o desactiva la ropa de Navidad": "Toggles Christmas clothing",
     "Máscaras de Navidad": "Christmas Masks",
@@ -311,6 +311,8 @@
     "Pinturas faciales": "Face Paints",
     "Máscaras": "Masks",
     "Cláxones": "Horns",
+    "AP Total: %d": "Total AP: %d",
+    "Nivel objetivo:": "Target Level:",
 
     "// ==================== VARIOS > GUN VAN ====================": "",
     "Teleport a la Gun Van": "Teleport to the Gun Van",
