@@ -1,5 +1,5 @@
 {
-    "meta": { "code": "en", "name": "English", "version": 9 },
+    "meta": { "code": "en", "name": "English", "version": 10 },
 
     "// ==================================================================s": "",
 
@@ -238,13 +238,13 @@
     "Obten la mejora del Mogul": "Gives you the Mogul upgrade",
 
     "// ==================== VARIOS > DESBLOQUEOS ====================": "",
-  "Desbloqueos": "Unlocks",
+    "Desbloqueos": "Unlocks",
 
-    "// --- Banner y hints (DrawWarningBanner / PanelTextHint) ---": "",
+    "// ------": "",
     "Cambia de sesión para guardar los cambios": "Change session to save the changes",
     "Debes comprar los objetos/ropa/pinturas para que se guarden": "You must buy the items/clothing/face paints for them to be saved",
 
-    "// --- Títulos de paneles (SectionPanel -> TranslatedText) ---": "",
+    "// --- Títulos ---": "",
     "Bunker": "Bunker",
     "Arena War": "Arena War",
     "Los Santos Tuners": "Los Santos Tuners",
@@ -258,7 +258,7 @@
     "// --- Niveles ---": "",
     "Nivel actual: %d": "Current Level: %d",
     "AP Total: %d": "Total AP: %d",
-    "Nivel objetivo:": "Target Level:",
+    "Nivel deseado:": "Target Level:",
     "Aplicar": "Apply",
 
     "// --- LSCM ---": "",
