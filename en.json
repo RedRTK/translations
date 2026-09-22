@@ -295,6 +295,8 @@
     "Desbloquear Investigaciones": "Unlock Research",
     "Desbloquea todas las investigaciones del búnker de una sola vez.": "Unlocks all bunker research in one go.",
     "Nivel actual: %d": "Current Level: %d",
+    "Nivel actual: {}": "Current Level: {}",
+    "AP Total: {}": "Total AP: {}",
     "Nivel actual: %d  |  AP Total: %d": "Current Level: %d  |  Total AP: %d",
     "Aplicar": "Apply",
     "Multiplicador de AP": "AP Multiplier",
