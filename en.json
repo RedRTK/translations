@@ -101,6 +101,8 @@
     "No, cancelar": "No, cancel",
     "ADVERTENCIA: Esta es tu ultima oportunidad!": "WARNING: This is your last chance!",
     "Una vez borrado, no podras recuperar este vehiculo.": "Once deleted, you will not be able to recover this vehicle.",
+    "No se pudo pedir el vehiculo (hay otra peticion en curso?).": "Failed to request the vehicle (is another request already in progress?).",
+    "Timeout esperando/borrando el vehiculo.": "Timed out while waiting for/deleting the vehicle.",
 
     "// ==================== DINERO Y MAS ====================": "",
     "Dinero y más": "Money & More",
