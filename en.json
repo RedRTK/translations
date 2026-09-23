@@ -103,6 +103,7 @@
     "Una vez borrado, no podras recuperar este vehiculo.": "Once deleted, you will not be able to recover this vehicle.",
     "No se pudo pedir el vehiculo (hay otra peticion en curso?).": "Failed to request the vehicle (is another request already in progress?).",
     "Timeout esperando/borrando el vehiculo.": "Timed out while waiting for/deleting the vehicle.",
+    "Click: solicitar el vehiculo   |   X: Borrarlo": "Click: Request vehicle   |   X: Delete it",
 
     "// ==================== DINERO Y MAS ====================": "",
     "Dinero y más": "Money & More",
