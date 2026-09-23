@@ -1,5 +1,5 @@
 {
-    "meta": { "code": "en", "name": "English", "version": 13 },
+    "meta": { "code": "en", "name": "English", "version": 14 },
 
     "// ==================================================================s": "",
 
@@ -104,7 +104,7 @@
     "No se pudo pedir el vehiculo (hay otra peticion en curso?).": "Failed to request the vehicle (is another request already in progress?).",
     "Timeout esperando/borrando el vehiculo.": "Timed out while waiting for/deleting the vehicle.",
     "Click: solicitar el vehículo   |   X: Borrarlo": "Click: Request vehicle   |   X: Delete it",
-    "Borrar este vehiculo": "Delete this vehicle",
+    "Borrar este vehículo": "Delete this vehicle",
 
     "// ==================== DINERO Y MAS ====================": "",
     "Dinero y más": "Money & More",
