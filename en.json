@@ -528,5 +528,30 @@
     "Desbloqueando... espera unos segundos": "Unlocking... wait a few seconds",
     "Finalizar Golpe": "InstaFinish Kortz",
     "Completa el golpe de Kortz Center inmediatamente (debes estar dentro del edificio)": "Finishes the Kortz Center heist instantly (you must be inside the building)",
-    "¡Debes estar dentro del edificio para Finalizar el Golpe!": "You must be inside the building to Finish the Heist!"
+    "¡Debes estar dentro del edificio para Finalizar el Golpe!": "You must be inside the building to Finish the Heist!",
+
+	"// === Forge Model ===": "",
+	"Forge Model": "Forge Model",
+	"Cambia el modelo de tu vehiculo.": "Change your vehicle model.",
+	"Modelo destino": "Target Model",
+	"Elige el modelo al que quieres cambiar.": "Choose the model you want to change to.",
+	"Tailgater": "Tailgater",
+	"BR8": "BR8",
+	"Elegy Retro Custom": "Elegy Retro Custom",
+	
+	"// === Notificaciones ===": "",
+	"No se puede cambiar este vehiculo.": "Cannot change this vehicle.",
+	"Ya tiene ese modelo.": "Already has that model.",
+	"Tienes que estar en una sesion multijugador.": "You must be in a multiplayer session.",
+	"No encontramos tu vehiculo personal.": "Personal vehicle not found.",
+	"No se puede acceder a tu garaje.": "Cannot access your garage.",
+	"Datos del vehiculo invalidos.": "Invalid vehicle data.",
+	"Tu vehiculo ya tiene ese modelo.": "Your vehicle already has that model.",
+	"El cambio no se pudo completar. Intenta de nuevo.": "Change could not be completed. Try again.",
+	"Entra a una sesion para restaurar el vehiculo.": "Join a session to restore the vehicle.",
+	"El modelo no es valido.": "Invalid model.",
+	"Tienes que estar conduciendo un vehiculo.": "You must be driving a vehicle.",
+	"Tu vehiculo cambio a %s.": "Your vehicle changed to %s.",
+	"Tu vehiculo personal cambio a %s.": "Your personal vehicle changed to %s.",
+	"El vehiculo se ve como %s.": "The vehicle looks like %s."
 }
