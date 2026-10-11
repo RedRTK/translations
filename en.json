@@ -96,6 +96,7 @@
     "No borres vehiculos especiales!!!!": "Do not delete special vehicles!!!!",
     "Si, continuar": "Yes, continue",
     "El vehiculo ha sido borrado correctamente. [{}] {}": "The vehicle has been successfully deleted. [{}] {}",
+	"El vehiculo ha sido borrado correctamente. {}": "The vehicle has been successfully deleted. {}",
     "El vehiculo ha sido borrado correctamente.": "The vehicle has been successfully deleted.",
     "Error al borrar el vehiculo. Un vehiculo esta siendo borrado, espera por favor!": "Error deleting the vehicle. A vehicle is being deleted, please wait!",
     "No, cancelar": "No, cancel",
@@ -105,6 +106,8 @@
     "Timeout esperando/borrando el vehiculo.": "Timed out while waiting for/deleting the vehicle.",
     "Click: solicitar el vehículo   |   X: Borrarlo": "Click: Request vehicle   |   X: Delete it",
     "Borrar este vehículo": "Delete this vehicle",
+	"Sin Alertas": "No Alerts",
+    "Borra el vehículo directamente al pulsar X, sin pedir confirmación.": "Deletes the vehicle directly when clicking X, without confirmation.",
 
     "// ==================== DINERO Y MAS ====================": "",
     "Dinero y más": "Money & More",
