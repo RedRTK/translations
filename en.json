@@ -573,4 +573,8 @@
 	"Tu vehiculo cambio a %s.": "Your vehicle changed to %s.",
 	"Tu vehiculo personal cambio a %s.": "Your personal vehicle changed to %s.",
 	"El vehiculo se ve como %s.": "The vehicle looks like %s."
+
+	"// === Recovery ===": "",
+	"Compras Gratis": "Free Shopping",
+	"Te permite comprar de manera gratuita.": "Allows you to buy everything for free."
 }
