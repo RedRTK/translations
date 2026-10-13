@@ -579,5 +579,55 @@
 
 	"// === Recovery ===": "",
 	"Compras Gratis": "Free Shopping",
-	"Te permite comprar de manera gratuita.": "Allows you to buy everything for free."
+	"Te permite comprar de manera gratuita.": "Allows you to buy everything for free.",
+
+	"// ==================== Vehicle Controls ====================": "",
+
+	"Controles": "Controls",
+	"Puertas": "Doors",
+	"Intermitentes": "Turn Signals",
+	"Luces": "Lights",
+
+	"Todas las puertas": "All Doors",
+	"Delantera izquierda": "Front Left",
+	"Delantera derecha": "Front Right",
+	"Trasera izquierda": "Rear Left",
+	"Trasera derecha": "Rear Right",
+	"Capo": "Hood",
+	"Maletero": "Trunk",
+	"Puerta extra 6": "Extra Door 6",
+	"Puerta extra 7": "Extra Door 7",
+
+	"Intermitente izquierdo": "Left Turn Signal",
+	"Intermitente derecho": "Right Turn Signal",
+	"Balizas": "Hazards",
+	"Apagado automatico": "Auto Off",
+
+	"Luces de freno fijas": "Persistent Brake Lights",
+	"Silenciar sirenas": "Mute Sirens",
+	"Restablecer controles": "Reset Controls",
+
+	"Apagado": "Off",
+	"Izquierda": "Left",
+	"Derecha": "Right",
+
+	"Abre o cierra todas las puertas del vehiculo.": "Opens or closes all vehicle doors.",
+	"Abre o cierra la puerta delantera izquierda.": "Opens or closes the front left door.",
+	"Abre o cierra la puerta delantera derecha.": "Opens or closes the front right door.",
+	"Abre o cierra la puerta trasera izquierda.": "Opens or closes the rear left door.",
+	"Abre o cierra la puerta trasera derecha.": "Opens or closes the rear right door.",
+	"Abre o cierra el capo.": "Opens or closes the hood.",
+	"Abre o cierra el maletero.": "Opens or closes the trunk.",
+	"Abre o cierra la puerta 6 (algunos modelos).": "Opens or closes door 6 (some models).",
+	"Abre o cierra la puerta 7 (algunos modelos).": "Opens or closes door 7 (some models).",
+	"Enciende el intermitente izquierdo; si ya esta encendido, lo apaga.": "Turns on the left turn signal; if already on, turns it off.",
+	"Enciende el intermitente derecho; si ya esta encendido, lo apaga.": "Turns on the right turn signal; if already on, turns it off.",
+	"Enciende las balizas; si ya estan encendidas, las apaga.": "Turns on the hazard lights; if already on, turns them off.",
+	"Apaga los intermitentes solos cuando el vehiculo ha girado mas de 60 grados.": "Automatically turns off the signals after the vehicle has turned more than 60 degrees.",
+	"Mantiene encendidas las luces de freno cuando el vehiculo esta casi parado.": "Keeps the brake lights on while the vehicle is nearly stopped.",
+	"Silencia la sirena de los vehiculos de emergencia que conduces.": "Mutes the sirens of the emergency vehicles you drive.",
+	"Cierra las puertas y apaga intermitentes, luces de freno y sirenas silenciadas.": "Closes the doors and turns off signals, brake lights and muted sirens.",
+
+	"No estas en un vehiculo.": "You are not in a vehicle."
+
 }
