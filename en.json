@@ -534,7 +534,10 @@
     "¡Debes estar dentro del edificio para Finalizar el Golpe!": "You must be inside the building to Finish the Heist!",
 
 	"// === Forge Model ===": "",
-	"Aviso: al cambiar el modelo, perderás el tuneo actual.\nConsejo: reclama un vehículo personal nuevo, instala primero las llantas que quieras conservar y después tunéalo.": "Warning: spoofing the vehicle model will remove its current modifications.\nTip: claim a new personal vehicle, install the wheels you want to keep first, then customize it.",
+	"Aviso:": "Warning:",
+	"al cambiar el modelo, perderás el tuneo actual.": "spoofing the vehicle model will remove its current modifications.",
+	"Consejo:": "Tip:",
+	"reclama un vehículo personal nuevo, instala primero las llantas que quieras conservar y después tunéalo.": "claim a new personal vehicle, install the wheels you want to keep first, then customize it.",
 	"Cambiar Modelo": "Spoof Model",
 	"Cambia el modelo de tu vehiculo.": "Spoof your vehicle's model.",
 	"Modelo": "Model",
