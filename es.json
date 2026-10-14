@@ -369,5 +369,19 @@
 	"Font Configuration:": "Configuración de fuente:",
 	"Current Scale: %.2f": "Escala actual: %.2f",
 	"Font Scale": "Escala de fuente",
-	"Apply Font Scale": "Aplicar escala de fuente"
+	"Apply Font Scale": "Aplicar escala de fuente",
+	
+	"// ==================== LUA ====================": "",
+	"Lua Scripts": "Scripts Lua",
+	"Enabled": "Activados",
+	"Disabled": "Desactivados",
+	"Open Lua Scripts Folder": "Abrir carpeta de scripts",
+	"Unable to open the scripts folder": "No se pudo abrir la carpeta de scripts",
+	"Resume": "Reanudar",
+	"Pause": "Pausar",
+	"Reload": "Recargar",
+	"Disable": "Desactivar",
+	"Paused. Select this script to resume it.": "Pausado. Selecciona este script para reanudarlo.",
+	"Click to enable this script": "Haz clic para activar este script"
+
 }
